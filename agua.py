@@ -1,3 +1,4 @@
+# Ejercico de kata 10
 def water_left(astronauts, water_left, days_left):
     for argument in [astronauts, water_left, days_left]:
         try:
