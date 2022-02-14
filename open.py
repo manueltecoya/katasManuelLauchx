@@ -1,3 +1,4 @@
+# Ejercicio kata 10
 def main():
     open("/path/to/mars.jpg")
 
